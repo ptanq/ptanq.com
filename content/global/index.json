@@ -1,0 +1,39 @@
+{
+  "header": {
+    "icon": {
+      "name": "Tina",
+      "color": "green",
+      "style": "float"
+    },
+    "name": "Ptanq",
+    "color": "default",
+    "nav": [
+      {
+        "href": "",
+        "label": "Home"
+      },
+      {
+        "href": "about",
+        "label": "About"
+      },
+      {
+        "href": "posts",
+        "label": "Blog"
+      }
+    ]
+  },
+  "footer": {
+    "color": "default",
+    "social": {
+      "facebook": "",
+      "twitter": "https://twitter.com/_ptanq_",
+      "instagram": "",
+      "github": "https://github.com/ptanq/"
+    }
+  },
+  "theme": {
+    "color": "orange",
+    "font": "sans",
+    "darkMode": "system"
+  }
+}
